@@ -12,6 +12,7 @@ Repos working on (orderd by layer. From package to the library) :
 * [varnamd](https://github.com/athul/varnamd) - Varnam HTTP server daemon
 * [go-libvarnam!](https://github.com/athul/go-libvarnam) - Go bindings for libvarnam
 * [libvarnam](https://github.com/subins2000/libvarnam) - The core library (C)
+* [Varnam Desktop](https://github.com/athul/varnam-desktop) - Desktop Application of Varnam - Windows, Linux and Mac
 
 Project Tracker -  https://github.com/users/subins2000/projects/2
 
